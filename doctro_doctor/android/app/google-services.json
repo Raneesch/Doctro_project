@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "49163275485",
+    "project_id": "gems-project-59e88",
+    "storage_bucket": "gems-project-59e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49163275485:android:19e6fc2f68592cc528df34",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVMeuFhPAnkZ7lcy3U0whHsTX-SZov_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49163275485:android:0d4c24a9cbc65bf428df34",
+        "android_client_info": {
+          "package_name": "com.example.doctro_doctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVMeuFhPAnkZ7lcy3U0whHsTX-SZov_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
